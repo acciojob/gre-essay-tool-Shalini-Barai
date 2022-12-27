@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+div{
+    margin-left: 30vw;
+    margin-top: 20vh;
+}
+#evaluatedText{
+    width:550px;
+    height:300px;
+    border:5px solid black;
+    color:blue;
+    background-color: antiquewhite;
+    font-size: 23px;
+}
+#wordCount{
+    font-size: 50px;
+}
